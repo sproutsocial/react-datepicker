@@ -1,6 +1,6 @@
 {
   "author": "HackerOne",
-  "name": "react-datepicker",
+  "name": "@sproutsocial/react-datepicker",
   "description": "A simple and reusable datepicker component for React",
   "version": "0.29.0",
   "license": "MIT",
@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Hacker0x01/react-datepicker.git"
+    "url": "git://github.com/sproutsocial/react-datepicker.git"
   },
   "bugs": {
-    "url": "https://github.com/Hacker0x01/react-datepicker/issues"
+    "url": "https://github.com/sproutsocial/react-datepicker/issues"
   },
   "devDependencies": {
     "babel-core": "^6.8.0",
